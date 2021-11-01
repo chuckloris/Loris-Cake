@@ -1,0 +1,3 @@
+displayName = Loris' cake
+author = Chuck Loris
+version = 0.001
