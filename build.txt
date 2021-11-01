@@ -1,3 +1,4 @@
 displayName = Loris' cake
 author = Chuck Loris
-version = 0.001
+version = 0.002
+homepage=https://github.com/chuckloris/Loris-Cake
