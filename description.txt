@@ -6,3 +6,6 @@ V 0.001
 
 V 0.002
 - Added an icon to the mod
+
+V 0.003
+- Mod's description changed
